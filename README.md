@@ -2,7 +2,7 @@
 
 This is an assignemnt from the Data Science for Geologist course. 
 
-###Task
+### Task
 
 Create a Jupyter notebook where you tell the story of what it is like to live in 2 different cities in terms of the weather. Pick 2 from Innsbruck, London, Sydney, Tehran and Singapore.
 
